@@ -1,0 +1,13 @@
+﻿  19120302.cpp
+C:\Users\Admin\source\repos\19120302\19120302\19120302.cpp(100,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Admin\source\repos\19120302\19120302\19120302.cpp(333,22): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+C:\Users\Admin\source\repos\19120302\19120302\19120302.cpp(356,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\19120302\19120302\19120302.cpp(364,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\19120302\19120302\19120302.cpp(397,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\19120302\19120302\19120302.cpp(418,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\19120302\19120302\19120302.cpp(433,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\19120302\19120302\19120302.cpp(446,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\19120302\19120302\19120302.cpp(263): warning C4715: 'CThueBaoTronGoi::TinhTien': not all control paths return a value
+C:\Users\Admin\source\repos\19120302\19120302\19120302.cpp(305): warning C4715: 'CThueBaoDungLuong::TinhTien': not all control paths return a value
+C:\Users\Admin\source\repos\19120302\19120302\19120302.cpp(494): warning C4715: 'CKhachHangTraTruoc::TinhTien': not all control paths return a value
+  19120302.vcxproj -> C:\Users\Admin\source\repos\19120302\Debug\19120302.exe
